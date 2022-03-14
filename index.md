@@ -4,4 +4,4 @@ This site chronicles my adventures in purchasing a boat, making repairs and upgr
 
 More coming soon!
 
-[20220314 Approaching Boat Inspection Day](https://tomsalzer.github.io/Sailing/20220314-approaching-boat-inspection-day.html)
+[Approaching Boat Inspection Day](https://tomsalzer.github.io/Sailing/2022-03-14-approaching-boat-inspection-day.md)
