@@ -1,12 +1,3 @@
----
-layout: post
-title: Approaching Boat Inspection Day
-excerpt: "Getting ready to visit the boat"
-tags: [inspection]
-comments: false
-category: blog
----
-
 # Approaching boat inspection day
 
 ## The boat
