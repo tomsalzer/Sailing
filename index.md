@@ -2,7 +2,6 @@
 layout: page
 show_sidebar: true
 title: "Sailing with Tom"
-permanlink: /Sailing/
 ---
 
 ## Welcome to Sailing With Tom
