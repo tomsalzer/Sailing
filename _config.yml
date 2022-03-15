@@ -1,2 +1,6 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 timezone: America/Los_Angeles
+defaults: 
+  -
+    values:
+      show_sidebar: true
