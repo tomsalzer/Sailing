@@ -1,4 +1,8 @@
+---
+layout: page
 show_sidebar: true
+title: "Sailing with Tom"
+---
 
 ## Welcome to Sailing With Tom
 
