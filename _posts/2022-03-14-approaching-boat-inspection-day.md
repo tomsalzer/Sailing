@@ -3,7 +3,8 @@ layout: post
 title: Approaching Boat Inspection Day
 author: Tom
 subtitle: Getting ready to visit the boat
-summary: I am preparing to look at a 1986 Catalina 34 sloop in good (not great) condition!
+summary: "I am preparing to look at a 1986 Catalina 34 sloop in good (not great) condition!"
+show_sidebar: true
 ---
 
 # Approaching boat inspection day
