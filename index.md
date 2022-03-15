@@ -6,4 +6,4 @@ This site chronicles my adventures in purchasing a boat, making repairs and upgr
 
 ### Posts
 
-[Approaching Boat Inspection Day](posts/2022-03-13-boat-inspection-day-coming.md)
+[Approaching Boat Inspection Day](post/2022-03-13-boat-inspection-day-coming.md)
