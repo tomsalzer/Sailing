@@ -1,4 +1,5 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+.remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: artemsheludko/flexible-jekyll
 timezone: America/Los_Angeles
 permalink: /Sailing/
 permalink: pretty
