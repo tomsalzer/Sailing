@@ -2,6 +2,7 @@
 layout: page
 show_sidebar: true
 title: "Sailing with Tom"
+hero_image: /1986Catalina-min.jpg
 ---
 
 ## Welcome to Sailing With Tom
