@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Approaching Boat Inspection Day"
-date: 2020-03-13 00:00:00 -0008
+date: 2022-03-13 00:00:00 -0008
 categories: inspection
+---
 
 # Approaching boat inspection day
 
