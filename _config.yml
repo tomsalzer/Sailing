@@ -4,3 +4,4 @@ permalink: /Sailing/
 permalink: pretty
 paginate: 5
 paginate_path: "/blog/page:num"
+footer_menu: footer
