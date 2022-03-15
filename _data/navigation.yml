@@ -1,2 +1,4 @@
 - name: Posts
   link: /blog/
+- name: Contact
+  link: ../contact.md
