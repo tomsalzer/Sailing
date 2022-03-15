@@ -1,3 +1,3 @@
-# Sailing with Tom
+# Sailing
 
 
