@@ -9,3 +9,7 @@ Some of the lines on the boat weren't stowed. The lines looked like they owners 
 What did disturb me is that all of the open ports I could see had clear silicone sealant around them. That is a sure sign that one or more ports have leaked. I have not yet seen the inside of the boat but that happens on Friday (boat inspection day!) and I expect to see some water damage on the woodwork.
 
 The owner also reported that condensation forms in the strangest places so I'll be on the lookout for mold, mildew, odd smells, and water collected in strange places.
+
+___
+
+[Home](https://tomsalzer.github.io/Sailing/)
