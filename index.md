@@ -1,3 +1,5 @@
+show_sidebar: true
+
 ## Welcome to Sailing With Tom
 
 This site chronicles my adventures in purchasing a boat, making repairs and upgrades, and sailing in the Salish Sea.
