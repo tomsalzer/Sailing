@@ -1,3 +1,4 @@
+page.exclude: ../Sailing
 - name: Posts
   link: /blog/
 - name: Contact
