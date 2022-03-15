@@ -1,3 +1,9 @@
+---
+layout: post
+title: Approaching Boat Inspection Day
+subtitle: Getting ready to visit the boat
+---
+
 # Approaching boat inspection day
 
 ## The boat
