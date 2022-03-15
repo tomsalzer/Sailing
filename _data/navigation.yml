@@ -1,3 +1,4 @@
+page.exclude: /Home/
 - name: Posts
   link: /blog/
 - name: Contact
