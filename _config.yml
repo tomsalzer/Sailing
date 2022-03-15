@@ -1,6 +1,6 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 timezone: America/Los_Angeles
-page.exclude: ../Sailing
+page.exclude: /Home/
 permalink: /Sailing/
 permalink: pretty
 paginate: 5
