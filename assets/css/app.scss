@@ -9,5 +9,8 @@
 .card-content {
     display: none;
 }
+.button.is-primary {
+    display: none;
+}
 // Import Main CSS file from theme
 @import "main";
