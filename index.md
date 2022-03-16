@@ -14,7 +14,7 @@ I have sailed since my pre-teen years: fast little dinghies that were easy to ti
 
 The Potter carried me all over Puget Sound, Hood Canal, and the San Juan Islands. It was a little bit cramped for a couple but for single handing, it was a great boat.
 
-Now we need more room for comfort and to help our offspring and their children learn to enjoy the Salish Sea. A new-to-us, larger boat is in the cards.
+Now we need more room for our own comfort and to help our offspring and their children learn to enjoy the Salish Sea. A new-to-us, larger boat is in the cards. Welcome to our next adventure.
 
 ___
 
