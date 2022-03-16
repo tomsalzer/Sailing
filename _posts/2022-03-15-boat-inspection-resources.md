@@ -27,3 +27,6 @@ Checklists help me remember what to look for. It's easy to forget a detail when 
 ### Safety
 - [West Marine: Safe Boating Checklist](https://www.westmarine.com/west-advisor/Safe-Boating-Checklist.html)
 - [Coast Guard Foundation: Boating Safety Guide](https://help.coastguardfoundation.org/boatingsafety/)
+
+### Books
+- I'm also reading a book in The International Marine Series titled [Inspecting the Aging Sailboat](https://www.amazon.com/dp/0071445455?psc=1&ref=ppx_yo2_dt_b_product_details)
