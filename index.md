@@ -6,7 +6,7 @@ hero_image: ./assets/images/1986Catalina-min.jpg
 hero_darken: true
 ---
 
-## Welcome to Sailing With Tom
+## Welcome to *Sailing with Tom*
 
 This site chronicles my adventures in purchasing a boat, making repairs and upgrades, and sailing in the Salish Sea.
 
