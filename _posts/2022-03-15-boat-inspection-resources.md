@@ -22,6 +22,7 @@ Checklists help me remember what to look for. It's easy to forget a detail when 
 - [Deep Sailing: Used Boat Buying Checklist](https://www.deepsailing.com/used-boat-buying-checklist)
 - [Practical Sailor: DIY Survey Checklist for Used Boat Buying](https://www.practical-sailor.com/sailboat-reviews/used_sailboats/diy-survey-checklist-for-used-boat-buying)
 - [Following Seas: What to Look For When Buying a Used Sailboat](https://www.followingseas.media/blog/2018/1/9/inspecting-a-used-sailboat)
+- [The Sailing Nomads: Buying a Boat: A complete guide to buying a boat (with checklists)](https://www.thesailingnomads.com/blog/buying-a-boat/)
 
 ### Safety
 - [West Marine: Safe Boating Checklist](https://www.westmarine.com/west-advisor/Safe-Boating-Checklist.html)
