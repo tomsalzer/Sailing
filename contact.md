@@ -1,6 +1,6 @@
 ---
 layout: page
-show_sidebar: true
+show_sidebar: false
 title: "Contact"
 hero_image: ../assets/images/1986Catalina-min.jpg
 hero_darken: true
