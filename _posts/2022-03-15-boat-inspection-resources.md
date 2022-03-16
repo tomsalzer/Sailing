@@ -12,12 +12,17 @@ show_sidebar: true
 Checklists help me remember what to look for. It's easy to forget a detail when I get sidetracked on something else so a checklist is a useful tool.
 
 ## Resources
+
+### Inspecting the used sailboat
 - [Boat US: Boat Evaluation Checklist](https://www.boatus.com/expert-advice/expert-advice-archive/2019/march/boat-evaluation-checklist)
 - [Port Credit Marine Surveys: Marine Survey 101](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm) 
   - [Marine Survey Checklist in PDF format](http://www.pcmarinesurveys.com/Marine%20Survey%20Checklist.pdf)
 - [The Boat Galley: New Boat Checklist](https://theboatgalley.com/new-boat-checklist/)
-- [West Marine: Safe Boating Checklist](https://www.westmarine.com/west-advisor/Safe-Boating-Checklist.html)
-- [Coast Guard Foundation: Boating Safety Guide](https://help.coastguardfoundation.org/boatingsafety/)
 - [Van Isle Marina: Used Boat Buying Checklist](https://vanislemarina.com/used-boat-buying-checklist/)
 - [Deep Sailing: Used Boat Buying Checklist](https://www.deepsailing.com/used-boat-buying-checklist)
 - [Practical Sailor: DIY Survey Checklist for Used Boat Buying](https://www.practical-sailor.com/sailboat-reviews/used_sailboats/diy-survey-checklist-for-used-boat-buying)
+- [Following Seas: What to Look For When Buying a Used Sailboat](https://www.followingseas.media/blog/2018/1/9/inspecting-a-used-sailboat)
+
+### Safety
+- [West Marine: Safe Boating Checklist](https://www.westmarine.com/west-advisor/Safe-Boating-Checklist.html)
+- [Coast Guard Foundation: Boating Safety Guide](https://help.coastguardfoundation.org/boatingsafety/)
