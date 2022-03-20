@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 title: "License"
-hero_image: ../assets/images/1986Catalina-min.jpg
+hero_image: ../assets/images/Nonsuch26-Hull35-min.jpg
 hero_darken: true
 ---
 
