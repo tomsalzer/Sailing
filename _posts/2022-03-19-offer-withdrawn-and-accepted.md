@@ -65,14 +65,16 @@ We have some things to do to unwind the Catalina negotiation and to complete the
 - [&ensp;]&ensp;Inspect and test the inflatable dinghy, repair or replace as needed
 - [&ensp;]&ensp;Confirm that tablet mount fits my tablet with Navionics charts installed
 - [&ensp;]&ensp;Test radar
+- [&ensp;]&ensp;Determine what to do about MMSI on existing VHF radio
 - [&ensp;]&ensp;Replace old fire extinguishers with new
 - [&ensp;]&ensp;Inspect/replace anchor chain as needed
 
-### Comfort
+### Comfort and convenience
+- [&ensp;]&ensp;Diagnose and repair marine head
 - [&ensp;]&ensp;Diagnose and repair diesel cabin heater
 - [&ensp;]&ensp;Diagnose and repair the instant hot water heater
 
-## Wishes
+## Wish list (not critical)
 - [&ensp;]&ensp;Clean a few spots on interior cushions
 - [&ensp;]&ensp;Consider a fishfinder or chartplotter with bottom mapping
 
