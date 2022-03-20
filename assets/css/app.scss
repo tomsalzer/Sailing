@@ -12,5 +12,11 @@
 .button.is-primary {
     display: none;
 }
+.content h1 {
+    color: lightseagreen;
+}
+.content h2 {
+    color: darkseagreen;
+}
 // Import Main CSS file from theme
 @import "main";
