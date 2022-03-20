@@ -52,8 +52,8 @@ Later that evening, he sent the purchase and sale agreement via DocuSign. I comp
 We have some things to do to unwind the Catalina negotiation and to complete the purchase of the Nonsuch, including:
 - [x]&ensp;Cancel the cashiers check that had been made out to the seller
 - [x]&ensp;Cancel the marine survey of the Catalina
-- [ ]&ensp;Cancel the haulout of the Catalina with the boatyard
-- [ ]&ensp;Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
+- [&ensp;]&ensp;Cancel the haulout of the Catalina with the boatyard
+- [&ensp;]&ensp;Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
 - [x]&ensp;Purchase the existing marine survey of the Nonsuch from the broker
 - [ ]&ensp;Secure moorage for the smaller Nonsuch at our preferred marina
 - [ ]&ensp;Once our preferred moorage is secured, cancel the larger slip we secured at a different marina
