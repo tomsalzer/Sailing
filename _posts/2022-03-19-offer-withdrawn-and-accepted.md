@@ -37,6 +37,8 @@ Once we got there, we started looking at boats in one of the marinas. The first 
 
 When we got to the Nonsuch, I saw that the cockpit hatch was open. I called out, "ahoy the boat!" and a lady stuck her head out of the cabin. It turns out she is the granddaughter of the deceased owner. We introduced ourselves and she invited us aboard. My friend and I crawled around the boat and found most everything very satisfactory.
 
+I have to say that even with reading about inspecting old boats and crawling through several myself, having an experienced boater along with you is a tremendous help. That person's observations can be much more detailed and objective than mine, plus they don't have the "buy the boat" buzz clouding their judgment. My friend's offer to look at the boats was incredibly valuable.
+
 ## Offer
 
 Standing on the dock with the granddaughter, we told her how much we loved the boat. She called the broker who called my phone. I learned some of the issues that the marine survey had revealed and told him I would make an offer in a certain dollar range. Once we got home, I sent him an email with that offer.
@@ -50,28 +52,28 @@ Later that evening, he sent the purchase and sale agreement via DocuSign. I comp
 We have some things to do to unwind the Catalina negotiation and to complete the purchase of the Nonsuch, including:
 - [x]&ensp;Cancel the cashiers check that had been made out to the seller
 - [x]&ensp;Cancel the marine survey of the Catalina
-- [ ]  Cancel the haulout of the Catalina with the boatyard
-- [ ]  Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
-- [x]  Purchase the existing marine survey of the Nonsuch from the broker
-- [ ]  Secure moorage for the smaller Nonsuch at our preferred marina
-- [ ]  Once our preferred moorage is secured, cancel the larger slip we secured at a different marina
+- [ ]&ensp;Cancel the haulout of the Catalina with the boatyard
+- [ ]&ensp;Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
+- [x]&ensp;Purchase the existing marine survey of the Nonsuch from the broker
+- [ ]&ensp;Secure moorage for the smaller Nonsuch at our preferred marina
+- [ ]&ensp;Once our preferred moorage is secured, cancel the larger slip we secured at a different marina
 
 ## Triage
 
 ### Safety and seaworthiness
-- [ ]  Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
-- [ ]  Inspect and test the inflatable dinghy, repair or replace as needed
-- [ ]  Confirm that tablet mount fits my tablet with Navionics charts installed
-- [ ]  Test radar
-- [ ]  Replace old fire extinguishers with new
+- [ ]&ensp;Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
+- [ ]&ensp;Inspect and test the inflatable dinghy, repair or replace as needed
+- [ ]&ensp;Confirm that tablet mount fits my tablet with Navionics charts installed
+- [ ]&ensp;Test radar
+- [ ]&ensp;Replace old fire extinguishers with new
 
 ### Comfort
-- [ ]  Diagnose and repair diesel cabin heater
-- [ ]  Diagnose and repair the instant hot water heater
+- [ ]&ensp;Diagnose and repair diesel cabin heater
+- [ ]&ensp;Diagnose and repair the instant hot water heater
 
 ## Wishes
-- [ ]  Clean a few spots on interior cushions
-- [ ]  Consider a fishfinder or chartplotter with bottom mapping
+- [ ]&ensp;Clean a few spots on interior cushions
+- [ ]&ensp;Consider a fishfinder or chartplotter with bottom mapping
 
 ___
 
