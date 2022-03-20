@@ -48,8 +48,8 @@ Later that evening, he sent the purchase and sale agreement via DocuSign. I comp
 ## Immediately
 
 We have some things to do to unwind the Catalina negotiation and to complete the purchase of the Nonsuch, including:
-- [x]  Cancel the cashiers check that had been made out to the seller
-- [x]  Cancel the marine survey of the Catalina
+- [x]&ensp;Cancel the cashiers check that had been made out to the seller
+- [x]&ensp;Cancel the marine survey of the Catalina
 - [ ]  Cancel the haulout of the Catalina with the boatyard
 - [ ]  Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
 - [x]  Purchase the existing marine survey of the Nonsuch from the broker
@@ -59,11 +59,11 @@ We have some things to do to unwind the Catalina negotiation and to complete the
 ## Triage
 
 ### Safety and seaworthiness
- [ ]  Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
- [ ]  Inspect and test the inflatable dinghy, repair or replace as needed
- [ ]  Confirm that tablet mount fits my tablet with Navionics charts installed
- [ ]  Test radar
- [ ]  Replace old fire extinguishers with new
+- [ ]  Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
+- [ ]  Inspect and test the inflatable dinghy, repair or replace as needed
+- [ ]  Confirm that tablet mount fits my tablet with Navionics charts installed
+- [ ]  Test radar
+- [ ]  Replace old fire extinguishers with new
 
 ### Comfort
 - [ ]  Diagnose and repair diesel cabin heater
