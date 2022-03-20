@@ -13,10 +13,10 @@
     display: none;
 }
 .content h1 {
-    color: lightseagreen;
+    color: lightseagreen!important;
 }
 .content h2 {
-    color: darkseagreen;
+    color: darkseagreen!important;
 }
 // Import Main CSS file from theme
 @import "main";
