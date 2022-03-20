@@ -55,25 +55,26 @@ We have some things to do to unwind the Catalina negotiation and to complete the
 - [&ensp;]&ensp;Cancel the haulout of the Catalina with the boatyard
 - [&ensp;]&ensp;Cancel the insurance on the Catalina and arrange insurance on the Nonsuch
 - [x]&ensp;Purchase the existing marine survey of the Nonsuch from the broker
-- [ ]&ensp;Secure moorage for the smaller Nonsuch at our preferred marina
-- [ ]&ensp;Once our preferred moorage is secured, cancel the larger slip we secured at a different marina
+- [&ensp;]&ensp;Secure moorage for the smaller Nonsuch at our preferred marina
+- [&ensp;]&ensp;Once our preferred moorage is secured, cancel the larger slip we secured at a different marina
 
 ## Triage
 
 ### Safety and seaworthiness
-- [ ]&ensp;Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
-- [ ]&ensp;Inspect and test the inflatable dinghy, repair or replace as needed
-- [ ]&ensp;Confirm that tablet mount fits my tablet with Navionics charts installed
-- [ ]&ensp;Test radar
-- [ ]&ensp;Replace old fire extinguishers with new
+- [&ensp;]&ensp;Arrange for fiberglass repairs at a quality boatyard (keel and rudder tube)
+- [&ensp;]&ensp;Inspect and test the inflatable dinghy, repair or replace as needed
+- [&ensp;]&ensp;Confirm that tablet mount fits my tablet with Navionics charts installed
+- [&ensp;]&ensp;Test radar
+- [&ensp;]&ensp;Replace old fire extinguishers with new
+- [&ensp;]&ensp;Inspect/replace anchor chain as needed
 
 ### Comfort
-- [ ]&ensp;Diagnose and repair diesel cabin heater
-- [ ]&ensp;Diagnose and repair the instant hot water heater
+- [&ensp;]&ensp;Diagnose and repair diesel cabin heater
+- [&ensp;]&ensp;Diagnose and repair the instant hot water heater
 
 ## Wishes
-- [ ]&ensp;Clean a few spots on interior cushions
-- [ ]&ensp;Consider a fishfinder or chartplotter with bottom mapping
+- [&ensp;]&ensp;Clean a few spots on interior cushions
+- [&ensp;]&ensp;Consider a fishfinder or chartplotter with bottom mapping
 
 ___
 
