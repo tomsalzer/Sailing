@@ -3,7 +3,7 @@ layout: post
 title: Offer Withdrawn and Offer Accepted
 author: Tom
 subtitle: We shift focus from a Catalina 34 to a Nonsuch 26!
-summary: "Upon inspection, the Catalina 34 was not in good condition but an alternative boat (a Nonsuch 26) was in very good shape!"
+summary: "Upon inspection, the Catalina 34 was not in good condition but an alternative boat (a Nonsuch 26) was in good shape!"
 show_sidebar: true
 ---
 
