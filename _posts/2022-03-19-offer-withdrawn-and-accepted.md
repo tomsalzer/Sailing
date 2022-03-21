@@ -33,7 +33,7 @@ I reached out to the broker handling the Nonsuch and he said he could not meet w
 
 Once we got there, we started looking at boats in one of the marinas. The first set of docks did not have the boat. When we were partway down the ramp to the second set of docks I spied the distinctive wishbone boom of the Nonsuch and said "there she is!"
 
-## A surprise waited above the Nonsuch
+## A surprise awaited at the Nonsuch
 
 When we got to the Nonsuch, I saw that the cockpit hatch was open. I called out, "ahoy the boat!" and a lady stuck her head out of the cabin. It turns out she is the granddaughter of the deceased owner. We introduced ourselves and she invited us aboard. My friend and I crawled around the boat and found most everything very satisfactory.
 
