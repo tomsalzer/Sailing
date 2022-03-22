@@ -14,15 +14,17 @@
 }
 .content h1 {
     color: lightseagreen!important;
+    font-weight: bolder!important;
 }
 .content h2 {
     color: darkseagreen!important;
     font-size: 1.6em!important;
-    font-weight: normal!important;
+    font-weight: 600!important;
 }
 .content h3 {
     color: slategray!important;
     font-weight: normal!important;
+    font-style: italic;
 }
 // Import Main CSS file from theme
 @import "main";
