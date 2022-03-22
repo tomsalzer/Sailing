@@ -20,7 +20,7 @@ For example, an abbreviated list of important safety items includes:
 - Clamps on dripless seal
 - Fuel tank not grounded
 - Fuel fill and vent hoses
-- Remote LPG cutoff
+- Remote propane cutoff
 - Overcurrent protection on DC circuit
 - Lack of fuses for high-draw items
 - Battery cables
@@ -29,7 +29,7 @@ For example, an abbreviated list of important safety items includes:
 - Bilge pump switch
 - CO and smoke detectors
 
-## Surveys are about finding what's wrong
+## Are surveys only about finding what's wrong?
 
 Surveys seem like they are all about identifying what doesn't work or what doesn't meet standards. That's the first impression when you begin reading the survey and see highlight after highlight showing issues with the vessel. 
 
