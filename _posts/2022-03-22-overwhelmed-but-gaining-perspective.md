@@ -60,3 +60,5 @@ This boat's bones are very good. Many of the systems show their age, and after a
 ## Triage, sequencing, scheduling
 
 Next, I need to triage the issues identified in the survey, sequence resolving those issues, and set out a schedule to implement those fixes. That will be a future post.
+
+Sometimes things that are not critical to safety can still rise to the top of the list. In this case, having a working marine head isn't a safety issue but it certainly is a comfort issue! Fixing the head will be in the first group of issues to resolve.
